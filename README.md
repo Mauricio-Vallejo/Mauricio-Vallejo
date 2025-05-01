@@ -10,13 +10,7 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
+Ingeniero en Telecomunicaciones con una sólida formación académica y gran motivación por aprender y crecer profesionalmente. Me destaco por mi pensamiento lógico, capacidad para resolver problemas y facilidad para aprender nuevas tecnologías. He trabajado en proyectos académicos y personales que demuestran mis habilidades en desarrollo de software, configuración de redes y automatización de procesos. Busco una oportunidad para aplicar mis conocimientos, aportar con responsabilidad y seguir desarrollándome en el área tecnológica.
 
 ## Algunos de mis proyectos*
 <table>
