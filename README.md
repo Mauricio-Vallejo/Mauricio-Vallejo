@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Mauricio Vallejo 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://github.com/Mauricio-Vallejo/Mauricio-Vallejo/blob/142605412cfe3006c3ca86bfbf5d7fa7e5903ec2/piclumen-1746033566032.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/Mauricio-Vallejo?style=social)](https://github.com/Mauricio-Vallejo)
 
