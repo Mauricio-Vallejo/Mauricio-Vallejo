@@ -54,9 +54,9 @@ Ingeniero en Telecomunicaciones con una sólida formación académica y gran mot
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Proyectos de Universidad</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://github.com/Mauricio-Vallejo/Mauricio-Vallejo/blob/142605412cfe3006c3ca86bfbf5d7fa7e5903ec2/piclumen-1746033566032.png" width="300" alt="Curso intermedio Android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://github.com/Mauricio-Vallejo/Mauricio-Vallejo/blob/3e2ec3ebbc903cce9b5755c9a53c2071fa03bbdf/Proyectos.png" width="300" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
