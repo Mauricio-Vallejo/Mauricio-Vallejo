@@ -35,7 +35,7 @@ Ingeniero en Telecomunicaciones con una sólida formación académica y gran mot
                <br>
 <h3 align="center">Proyectos de Universidad</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/Mauricio-Vallejo/Mauricio-Vallejo/blob/3e2ec3ebbc903cce9b5755c9a53c2071fa03bbdf/Proyectos.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/Mauricio-Vallejo/Mauricio-Vallejo/blob/3e2ec3ebbc903cce9b5755c9a53c2071fa03bbdf/Proyectos.png" width="300" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
