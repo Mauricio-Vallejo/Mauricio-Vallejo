@@ -1,7 +1,10 @@
 <div align="center">
 <h1 align="center">Hola, soy Mauricio Vallejo 👋</h1>
 </div>
-<img src="https://github.com/Mauricio-Vallejo/Mauricio-Vallejo/blob/142605412cfe3006c3ca86bfbf5d7fa7e5903ec2/piclumen-1746033566032.png?raw=true" width="400"/>
+<div align="center">
+  <img src="https://github.com/Mauricio-Vallejo/Mauricio-Vallejo/blob/142605412cfe3006c3ca86bfbf5d7fa7e5903ec2/piclumen-1746033566032.png?raw=true" width="400"/>
+</div>
+
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Mauricio-Vallejo?style=social)](https://github.com/Mauricio-Vallejo)
